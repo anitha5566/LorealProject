@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LettersArrangement.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/WordsArrangement.unity
     guid: a703efadda5235c4ab72e8621584345e
+  - enabled: 0
+    path: Assets/Scenes/WordsArrangement_Anitha.unity
+    guid: cb907b40721410d4c9dae06c64165cb1
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5cc00538bd62823429850475c4490b07, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3efc78c7bdd8e8242a74f7e0c67ea293, type: 2}
