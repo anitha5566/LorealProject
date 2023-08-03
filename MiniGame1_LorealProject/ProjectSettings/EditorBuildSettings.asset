@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/LettersArrangement.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
-    path: Assets/Oculus/Interaction/Samples/Scenes/Examples/HandGrabExamples.unity
-    guid: 39ae0e546b9edc0408d3b11c6a7c2814
+  - enabled: 1
+    path: Assets/Scenes/WordsArrangement.unity
+    guid: a703efadda5235c4ab72e8621584345e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5cc00538bd62823429850475c4490b07, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3efc78c7bdd8e8242a74f7e0c67ea293, type: 2}
