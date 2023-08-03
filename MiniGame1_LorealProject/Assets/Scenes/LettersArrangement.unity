@@ -687,7 +687,6 @@ GameObject:
   - component: {fileID: 1651012192}
   - component: {fileID: 1651012191}
   - component: {fileID: 1651012190}
-  - component: {fileID: 1651012194}
   - component: {fileID: 1651012195}
   - component: {fileID: 1651012196}
   - component: {fileID: 1651012197}
@@ -776,25 +775,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: -40.614, z: 0}
---- !u!114 &1651012194
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1651012189}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _transferOnSecondSelection: 0
-  _addNewPointsToFront: 0
-  _forwardElement: {fileID: 0}
-  _oneGrabTransformer: {fileID: 0}
-  _twoGrabTransformer: {fileID: 0}
-  _targetTransform: {fileID: 0}
-  _maxGrabPoints: -1
 --- !u!114 &1651012195
 MonoBehaviour:
   m_ObjectHideFlags: 0
